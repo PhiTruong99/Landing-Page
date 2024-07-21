@@ -1,0 +1,54 @@
+{
+    "sofa-set": [
+        {
+            "id": 1,
+            "image": "https://d3dmq92854myzj.cloudfront.net/wp-content/uploads/2021/05/m70.1_1_1-600x360.jpg",
+            "name": "ARTHUR",
+            "price": "23.000.000đ",
+            "size": "D2040 - R950 - C860mm",
+            "material": "Khung kim loại. Bọc vải satin",
+            "origin": "Sản xuất tại Trung Quốc",
+            "guarantee": "12 tháng"
+        },
+        {
+            "id": 2,
+            "image": "https://d3dmq92854myzj.cloudfront.net/wp-content/uploads/2021/05/m11_bo_.1_1_1-600x360.jpg",
+            "name": "BROOKLYN",
+            "price": "57.000.000đ",
+            "size": "D950 - R950 - C880mm",
+            "material": "Khung gỗ tự nhiên bọc vải",
+            "origin": "Sản xuất tại Trung Quốc",
+            "guarantee": "12 tháng"
+        },
+        {
+            "id": 3,
+            "image": "https://d3dmq92854myzj.cloudfront.net/wp-content/uploads/2021/05/saminiata_bo-_213.3b-600x360.jpg",
+            "name": "SANMINIATO",
+            "price": "42.000.000đ",
+            "size": "D1680 - R940 - C840mm",
+            "material": "<div><span>100% da bò thương hiệu Mastrotto – Italia</span><br><span>Bên trong: mút đàn hồi kết hợp lông vũ</span><br><span>Chân inox đánh bóng</span><br><span>Độ dày của da từ 1.2 -1.4 mm</span><br><span>Khung: gỗ dầu đã qua xử lý và plywood</span></div>",
+            "origin": "Sản xuất tại Malaysia",
+            "guarantee": "<div><span>Bảo hành trọn đời khung Sofa</span><br><span>Bảo trì trọn đời sản phẩm</span><br><spanDa bảo hành 24 tháng</span</div>"
+        },
+        {
+            "id": 4,
+            "image": "https://d3dmq92854myzj.cloudfront.net/wp-content/uploads/2021/05/verola-tl14_bo_.1_1-600x360.jpg",
+            "name": "VEROLA",
+            "price": "32.000.000đ",
+            "size": "<div><span>Dài: 1900mm</span><br><span>Rộng: 1050mm</span><br><span>Cao: 750mm</span><br><span>Cao tựa đầu: 980mm</span></div>",
+            "material": "<div><span>100% da bò thương hiệu Mastrotto – Italia</span><br><span>Chân bằng hợp kim nhôm</span><br><span>Độ dày của da từ 1.2 -1.4 mm</span><br><span>Khung gỗ Meranti</span><br><span>Phần ngồi: mút đàn hồi, phần tựa lưng bằng bông kết hợp mút</span></div>",
+            "origin": "Sản xuất tại Malaysia",
+            "guarantee": "<div><span>Bảo hành trọn đời khung Sofa</span><br><span>Da bảo hành 24 tháng</span></div>"
+        },
+        {
+            "id": 5,
+            "image": "https://d3dmq92854myzj.cloudfront.net/wp-content/uploads/2021/05/sasari..0_2-600x360.jpg",
+            "name": "SASSARI",
+            "price": "27.000.000đ",
+            "size": "<div><span>Dài: 860mm</span><br><span>Rộng: 900mm</span><br><span>Cao: 860mm</span></div>",
+            "material": "<div><span>100% da bò thương hiệu Mastrotto – Italia</span><br><span>Chân bằng thép mạ crom</span><br><span>Độ dày của da từ 1.2 -1.4 mm</span><br><span>Khung gỗ Meranti</span><br><span>Phần ngồi: mút đàn hồi, phần tựa lưng bằng bông kết hợp lông vũ</span></div>",
+            "origin": "Sản xuất tại Malaysia",
+            "guarantee": "<div><span>Bảo hành trọn đời khung Sofa</span><br><span>Da bảo hành 24 tháng</span></div>"
+        }
+    ]
+}
